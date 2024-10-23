@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113295656570",
+    "project_id": "ticketfilm-b32b0",
+    "storage_bucket": "ticketfilm-b32b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113295656570:android:3b654ce6b8ee0a67491dc3",
+        "android_client_info": {
+          "package_name": "com.example.ticketbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-K4xT_0zNDc238p-uYZvE_fl9yd6TqB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
